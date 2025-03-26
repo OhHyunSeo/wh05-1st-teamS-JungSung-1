@@ -63,6 +63,10 @@
 # 결빙 판단 알고리즘
 ## 1. 응결에 의한 결빙
 ![결빙알고리즘1](https://github.com/user-attachments/assets/2eca4fe4-d522-4b1d-9932-8a3426490562)
+
+<center>
+     <img src="[이미지 주소](https://github.com/user-attachments/assets/2eca4fe4-d522-4b1d-9932-8a3426490562)">
+</center>
 ## 2. 강수에 의한 결빙
 ![결알2](https://github.com/user-attachments/assets/e00d165b-7003-4e41-a255-e9227bb086cd)
 ## 3. 적설에 의한 결빙
