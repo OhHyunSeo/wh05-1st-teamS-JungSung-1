@@ -62,20 +62,29 @@
 
 # 결빙 판단 알고리즘
 ## 1. 응결에 의한 결빙
-![결빙알고리즘1](https://github.com/user-attachments/assets/2eca4fe4-d522-4b1d-9932-8a3426490562)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2eca4fe4-d522-4b1d-9932-8a3426490562">
+</p>
+
 ## 2. 강수에 의한 결빙
-![결알2](https://github.com/user-attachments/assets/e00d165b-7003-4e41-a255-e9227bb086cd)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e00d165b-7003-4e41-a255-e9227bb086cd">
+</p>
 
-<center>
-     <img src="https://github.com/user-attachments/assets/e00d165b-7003-4e41-a255-e9227bb086cd">
-</center>
 ## 3. 적설에 의한 결빙
-![결알3](https://github.com/user-attachments/assets/6e57c381-0874-4408-8e69-267c239a81b6)
-## 4. 결빙 상태 지속
-![결알4](https://github.com/user-attachments/assets/76bac1a1-540a-4399-b6f0-0abb7ea60a7f)
-## 5. 풍속에 의한 결빙
-![결알5](https://github.com/user-attachments/assets/09d09f0e-07fa-48f5-bb30-63513002e1c5)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6e57c381-0874-4408-8e69-267c239a81b6">
+</p>
 
+## 4. 결빙 상태 지속
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/76bac1a1-540a-4399-b6f0-0abb7ea60a7f">
+</p>
+
+## 5. 풍속에 의한 결빙
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/09d09f0e-07fa-48f5-bb30-63513002e1c5">
+</p>
   ------------------------------
 
 # 🗂️ 프로젝트 설계서
