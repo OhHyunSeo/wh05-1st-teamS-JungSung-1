@@ -65,6 +65,10 @@
 ![결빙알고리즘1](https://github.com/user-attachments/assets/2eca4fe4-d522-4b1d-9932-8a3426490562)
 ## 2. 강수에 의한 결빙
 ![결알2](https://github.com/user-attachments/assets/e00d165b-7003-4e41-a255-e9227bb086cd)
+
+<center>
+     <img src="https://github.com/user-attachments/assets/e00d165b-7003-4e41-a255-e9227bb086cd">
+</center>
 ## 3. 적설에 의한 결빙
 ![결알3](https://github.com/user-attachments/assets/6e57c381-0874-4408-8e69-267c239a81b6)
 ## 4. 결빙 상태 지속
